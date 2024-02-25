@@ -1,4 +1,4 @@
-module github.com/tuannm-sns/core
+module github.com/motchai-sns/core
 
 go 1.21.6
 
